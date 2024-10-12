@@ -58,7 +58,7 @@ int main()
 					break;
 				}
 
-				printf("déplacez vous avec les touche z (haut) s(bas) q(gauche) d(droite) : ");
+				printf("déplacez vous avec les touche z (haut) s(bas) q(gauche) d(droite) : \n");
 				scanf(" %c", &choix);
 
 				if (choix == 'x'){
